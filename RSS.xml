@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Github Pages Podcast Hosting</title>
+    <googleplay:author>i3130002</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>San Francisco, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>i3130002</author>
+    <itunes:author>i3130002</itunes:author>
+    <itunes:email>email@example.com</itunes:email>
+    <itunes:category text="Technology" />
+    <image>
+      <url>https://i3130002.github.io/GithubPagesPodcastHosting/icon.jpg</url>
+      <title>Github Pages Podcast Hosting</title>
+      <link>https://i3130002.github.io/GithubPagesPodcastHosting/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>i3130002</itunes:name>
+      <itunes:email>email@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>podcast,github,free,hosting</itunes:keywords>
+    <copyright>??????</copyright>
+    <description>Write a description</description>
+    <googleplay:image href="https://i3130002.github.io/GithubPagesPodcastHosting/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <item>
+      <author>????????????</author>
+      <itunes:author>????????????</itunes:author>
+      <title>????????????</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://i3130002.github.io/media/Some large title at the begining (Episode 01).mp3" type="audio/mpeg" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+???????????? - @????????????
+
+https://twitter.com/????????????
+
+https://github.com/????????????
+
+
+???????????? - @????????????
+
+https://twitter.com/????????????
+
+https://github.com/????????????
+
+https://youtube.com/????????????
+
+https://????????????.com
+
+Our podcast player: 
+
+https://????????????.github.io/xxxxxxxxxx/
+        </description>
+    </item>
+  </channel>
+</rss>
