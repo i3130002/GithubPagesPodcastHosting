@@ -1,6 +1,8 @@
 # GithubPagesPodcastHosting
 A GitHub repository for hosting podcasts
 
+# [RSS.xml](https://i3130002.github.io/GithubPagesPodcastHosting/RSS.xml)
+
 # Benefits
 - Free for 10GB of total files
 - Free bandwidth
